@@ -4,8 +4,8 @@
  * Plugin URI: http://snippets-tricks.org/proyectos/breadcrumbs-plus-plugin/
  * Description: Breadcrumbs Plus provide links back to each previous page the user navigated through to get to the current page or-in hierarchical site structures-the parent pages of the current one.
  * Version: 0.3
- * Author: Luis Alberto Ochoa
- * Author URI: http://luisalberto.org
+ * Author: DavidC
+ * Author URI: http://
  * License: GPL2
  * 
  * This program is free software; you can redistribute it and/or modify it under the terms of the GNU 
@@ -20,10 +20,8 @@
  * 
  * @package Breadcrumbs Plus
  * @version 0.3
- * @author Luis Alberto Ochoa <soy@luisalberto.org>
- * @copyright Copyright (c) 2010, Luis Alberto Ochoa
- * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
- */
+ * @author DavidC
+ * @copyright Copyright (c) 2015
 
 /**
  * Poedit is a good tool to for translating.
